@@ -1,4 +1,4 @@
-# made with shirt pocket which is an incredibly cool bot you can invite at https://bit.ly/shirt_pocket
+### made with shirt pocket which is an incredibly cool bot you can invite at https://bit.ly/shirt_pocket
 1:1 In the beginning God created the heaven and the earth.
 
 1:2 And the earth was without form, and void; and darkness was upon
